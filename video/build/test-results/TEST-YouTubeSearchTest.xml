@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YouTubeSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-06T19:55:53" hostname="JC-E6420" time="0.766">
+  <properties/>
+  <testcase name="connect" classname="YouTubeSearchTest" time="0.766"/>
+  <system-out><![CDATA[ Video Id  cXHUavf985E
+ Title | Zelda BOTW | Multiple Guardian Deflection Simultaneum
+
+-------------------------------------------------------------
+
+ Video Id  7fq9XxjJG4A
+ Title SOY INMORTAL | Glitch de Inmortalidad en Zelda BOTW
+
+-------------------------------------------------------------
+
+ Video Id  8YDxzYi0QjA
+ Title The Legend of Zelda The Minish Cap #20: Les Gorons
+
+-------------------------------------------------------------
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

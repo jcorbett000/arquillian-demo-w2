@@ -1,0 +1,10 @@
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/boundary/IgdbGateway.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/entity/LocalDatePersistenceConverter.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/entity/SearchResult.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/entity/Game.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/boundary/Games.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/entity/ReleaseDate.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/Main.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/boundary/GamesResource.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/boundary/ExecutorServiceProducer.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/main/java/book/games/control/GamesService.java

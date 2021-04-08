@@ -1,0 +1,10 @@
+integrationtests/GamesTest.class
+book/games/arquillian/ArquillianRemoteTest.class
+book/games/boundary/GamesResourceTest.class
+book/games/boundary/GamesTest.class
+book/games/control/GamesServiceTest.class
+book/games/arquillian/ArquillianAbstractTest.class
+book/games/arquillian/ArquillianResourceTest.class
+book/games/boundary/IgdbGatewayTest.class
+book/games/arquillian/ArquillianResourceTest$1.class
+book/games/arquillian/ArquillianBasicTest.class

@@ -1,0 +1,10 @@
+book/games/boundary/GamesResource.class
+book/games/boundary/Games.class
+book/games/Main.class
+book/games/boundary/IgdbGateway.class
+book/games/control/GamesService.class
+book/games/entity/SearchResult.class
+book/games/entity/Game.class
+book/games/entity/LocalDatePersistenceConverter.class
+book/games/boundary/ExecutorServiceProducer.class
+book/games/entity/ReleaseDate.class

@@ -1,0 +1,9 @@
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/control/GamesServiceTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/arquillian/ArquillianBasicTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/arquillian/ArquillianAbstractTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/arquillian/ArquillianRemoteTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/integrationtests/GamesTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/boundary/IgdbGatewayTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/arquillian/ArquillianResourceTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/boundary/GamesResourceTest.java
+/home/jcorbett/java-proj/testing-java-microservices/game/src/test/java/book/games/boundary/GamesTest.java

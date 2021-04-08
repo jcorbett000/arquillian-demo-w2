@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="book.video.controller.YouTubeVideoLinkCreatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-06T17:31:00" hostname="JC-E6420" time="0.03">
+  <properties/>
+  <testcase name="shouldReturnYouTubeEmbeddedUrlForGivenVideoId" classname="book.video.controller.YouTubeVideoLinkCreatorTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
